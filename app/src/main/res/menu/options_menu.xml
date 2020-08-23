@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        app:showAsAction="always"
+        android:id="@+id/logout"
+        android:icon="@drawable/log_out"
+        android:title="@string/log_out">
+
+    </item>
+
+    <item
+        app:showAsAction="never"
+        android:id="@+id/location_service"
+        android:icon="@drawable/ic_start_tracking_24dp"
+        android:title="@string/start_tracking" >
+
+    </item>
+    <item
+        app:showAsAction="never"
+        android:id="@+id/long_distance"
+        android:title="@string/long_distance" >
+
+    </item>
+
+    <item
+        app:showAsAction="never"
+        android:id="@+id/about_us"
+        android:icon="@drawable/about"
+        android:title="@string/about">
+
+    </item>
+
+</menu>

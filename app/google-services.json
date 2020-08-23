@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "191867542246",
+    "firebase_url": "https://redspot-e8dd4.firebaseio.com",
+    "project_id": "redspot",
+    "storage_bucket": "redspot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191867542246:android:c8bb51d176f5e87a",
+        "android_client_info": {
+          "package_name": "com.sistec.redspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191867542246-se0jl71q542rm6mfmbg3rg4arshojcao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sistec.redspot",
+            "certificate_hash": "bcad1eaf30863757a3d6ec78d0ac74cd6e4e0925"
+          }
+        },
+        {
+          "client_id": "191867542246-b7n1o88pf39vb24s4ch3k56gehc2ddii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWtVkOcSPZQyUHH7B7AWsLivU901HH7jQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191867542246-b7n1o88pf39vb24s4ch3k56gehc2ddii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

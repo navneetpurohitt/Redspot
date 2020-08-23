@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">191867542246-b7n1o88pf39vb24s4ch3k56gehc2ddii.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://redspot-e8dd4.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">191867542246</string>
+    <string name="google_api_key" translatable="false">AIzaSyCWtVkOcSPZQyUHH7B7AWsLivU901HH7jQ</string>
+    <string name="google_app_id" translatable="false">1:191867542246:android:c8bb51d176f5e87a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCWtVkOcSPZQyUHH7B7AWsLivU901HH7jQ</string>
+    <string name="google_storage_bucket" translatable="false">redspot.appspot.com</string>
+    <string name="project_id" translatable="false">redspot</string>
+</resources>

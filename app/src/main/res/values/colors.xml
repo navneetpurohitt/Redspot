@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F016CC8C</color>
+    <color name="colorPrimaryDark">#0E965B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="aboutActivityDark">#5c3232</color>
+    <color name="danger_highest">#E20000</color>
+    <color name="danger_one">#AAFF0000</color>
+    <color name="danger_two">#66FF0000</color>
+    <color name="danger_three">#99FF7C8D</color>
+    <color name="danger_four">#22FF0000</color>
+    <color name="safe_dark">#00B800</color>
+    <color name="safe_one">#2200FF00</color>
+
+</resources>

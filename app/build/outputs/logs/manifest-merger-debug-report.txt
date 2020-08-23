@@ -1,0 +1,1161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:2:1-88:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\multidex-2.0.1.aar\d6c7abb2e9aef58b9f0aba2079dc53ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-library-2.1.4.aar\81ce15ff3357db9ab531e2efb186b57e\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.material:material:1.1.0-alpha04] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha04.aar\9c06fe2b6a90ab3e3ff9f68a10841c7c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-12.0.1.aar\4e3030f66ff66d261298e9503cd4a7bb\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-cast-framework-12.0.1.aar\48f2488b74f393683b56f82ed1f3e4c0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-cast-12.0.1.aar\b0c6053b0b9cb0780859ff6a61bd3210\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\mediarouter-1.0.0-alpha5.aar\23eb935627379614732bada77bc329d3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha02.aar\23864e04dfa81bfa5cae4b2c22e4f4f3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\5ab9dfc199497e73ec0052b2b0dbb494\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\36384d7044e7b73d4715f682c235b18d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-awareness-12.0.1.aar\63e0880c4213280efb954ab869bc05b0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-places-16.0.0.aar\f32af9e30bf987a9e6c7292689eff888\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wallet-12.0.1.aar\660d0f525d2fa808128fa79889d63395\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\f3bdfe622e49c57ab6aab36fb95226e0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-fitness-12.0.1.aar\afb1d9b70d74e36a3292173e03c7d264\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\dc1c9adb4f3eaea959b8346b01c1238c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.1.0.aar\a00c2cb64ff217439fec75ee353ee340\AndroidManifest.xml:15:1-36:12
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.7.aar\322cd0b9d356b1bbed241de19edfdcfb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-12.0.1.aar\e443b78802173ce28f046b7b2fccdc4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-v4-impl-12.0.1.aar\4ab95b7ac73298baca690eb7435c92a7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-impl-12.0.1.aar\39bc3e0488b04ca89cd2c2d9f566b02a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-appinvite-12.0.1.aar\6bf36e509c1903f9485e1c5705b499e1\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-12.0.1.aar\b60dc4d167c0296dc3f80e7ec6b32e05\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-api-phone-12.0.1.aar\f79ab7d3e8dccf23bd5d383bec2c6f26\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-base-12.0.1.aar\a6a365ebc25200ba902be15c1f3eaec8\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-config-12.0.1.aar\672a232c4e3da7f90e0686b45daadd38\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-games-12.0.1.aar\11ac344ce782949318e53214ebc7a578\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-drive-12.0.1.aar\199875c413f4dbfeb543da8816ec1b6a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-fido-12.0.1.aar\02add6e75230ee67d88dea1d744c2a83\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-dynamic-links-12.0.1.aar\e7ffe48343922cb83aad985a4cdb2801\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-gcm-12.0.1.aar\46a5f60371e614fc78386140d2a65d33\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-appindexing-12.0.1.aar\5377442bd1c19ae2e391708e063a00df\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-identity-12.0.1.aar\ade99c6c2115d2875a7b33faf8715fa1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-iid-12.0.1.aar\2fed8c8968b672cb5422a7778f614e72\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-instantapps-12.0.1.aar\d62f81095adce0dc9db651a60f61a7ff\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-nearby-12.0.1.aar\c4311630475d5c560f38f4a041f78053\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-panorama-12.0.1.aar\ad2188ef139b776db690907dd8c5c0bb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-plus-12.0.1.aar\fc3b7da865c415ee86a8393076231311\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-safetynet-12.0.1.aar\94a1e1308a2a203c62091bb800af56bb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\dedaa6a0457b33e512989d562dddf4d9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-vision-common-12.0.1.aar\e33c123ec17f15624ac56e3a78f347a4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-12.0.1.aar\723b6f36336e61ba1d5c04844b151f49\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\1ee462e638c6359b0848956dfc57c7f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-16.0.1.aar\9d501400fe026cb4bdb619fb83a7ad38\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-crash-12.0.1.aar\db535ab0d5374108a50e87af32f58f46\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-12.0.1.aar\729dcf7f86cf135a3673e3649861bf28\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-impl-17.0.5.aar\4cdca28b189ff07304d3dbc02df6c13c\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-api-16.3.0.aar\517bb8bec08b6e8358b5f871d46de3bb\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-16.3.0.aar\b21208876cf1bfb6b8f57205cfc1dde6\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-interop-16.0.1.aar\6d03f1a3831a9819e75b1a8a83493c13\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\3d3d6a2d0188b5991c68ca7b6afd7c67\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-12.0.1.aar\c37f88a7524a534ec48607372a2a08ac\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-12.0.1.aar\4240ceb6a14bf6e2d228b1842f9e40fc\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-connection-12.0.1.aar\8f5398aa20fef9855efca06f74dc7f2b\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-12.0.1.aar\7a28b8ef5d420ec8be157fc6d2cce7f1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-common-12.0.1.aar\2f888f3c45fc6c64feef8a6a8c2d144f\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.1.aar\3428c6931f2e0aae66232fafcbbf8d7b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\73a62f6c0ec76ff7a6efc0b41f567569\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.1.0.aar\069ee08422d4ebe75f546f74c28ed32c\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\41a7d8b73096fe1daa8fa41b338fc7d6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-base-16.3.0.aar\04b66d4de954f93261ee808732998191\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-stats-16.0.1.aar\acc073d6527b955a7d63b04b59bbb052\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-17.0.1.aar\7dcf4104306611057f41827c3840c092\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-identifier-16.0.0.aar\4307184c62fba5d1dbe49fb98fb47bef\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\96ae27d4270f9bd0fc517fc2029f75e6\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha04] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha04.aar\bd51ee41f380a4f6d7d542d86ff24373\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\3318c54869ba6c150e572a884e1597fd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\18400f5a113e9363809d200427255086\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\0c2c27c23ca328d8f2b80baa15c09e59\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0-alpha01.aar\8ee26f9fe3b11e56e6df43e0567b8a0a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0-alpha01.aar\65a0b2b9976855d8eb39edeb28daa3a4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0-rc01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\palette-1.0.0-rc01.aar\f6751ccf398449ce8137750d770781a3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\483c699991fc341e03ecb603550feebc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0-alpha01.aar\d54e6029bd537248cdd233965903c67d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\transition-1.0.1.aar\1a6ab403734bdfc40a31a6f58ee6a090\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\594dc884561ecaf32fa73fb20da2fa0c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\9e0af66925cd8bd0780b63eb01c9520a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha04] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha04.aar\d98e58f087b2b2173216e9c1f85d324f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\b480828036dbcdbe37c52e757dcc42b4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\eb2b44dbace989add4cc99dcb814eb84\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\522297f826a9babbb65acbd99b660f93\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\1ed6c866c27b248457a7194b159f3a66\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media2:media2:1.0.0-alpha02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\media2-1.0.0-alpha02.aar\0b44d9c6312022d34e38c71d5a1617ae\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\2e43817766dcc4ddddca67140f8f795d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha04] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha04.aar\44daa8d58c095717b870155394266994\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\b66b8a52afae694f8c427d4c4ad4c44a\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\d09e0770fc09a3afa971835f0072257b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\c260a19d65022b5d73cfb6c940a80b6a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e5b2fa743c93a94966d0ef09328c24c0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\16851b2eebb6ab179fdc40b633273466\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\72a2df9c09e53d83e44e1ade13511dbe\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0-alpha02.aar\2d3d4100cc19a941c3cbcf48f8edef5a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-bundle:1.0.0-alpha01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\savedstate-bundle-1.0.0-alpha01.aar\91e3abcd1bf77ba50f95b392496d9c0a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\124a2c6e42151ec4b9119372454d02fa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\8a9d417594a9deb61eca1d03cb10f41e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\925a5495f9d26a4670b882ca974a1547\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\c3a8c927e5860f196caa22f6c6618980\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\293ce608986bc267bc56197e5c6200d0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\c0385c16398e5943ca3d090c529550a2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-12.0.1.aar\fcfff7ea39eb3c5da2f21fe645bcd338\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-12.0.1.aar\8ecedf5c5b030d6368281654e4f4333f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-12.0.1.aar\60853a5ddd334f5fe72aae324287dd1c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-12.0.1.aar\a5150cfbe59d2c513f2330e3b862d28f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-12.0.1.aar\6007a496b58250efaadc62695464dcbd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\093cae823b2ca670db3fd910b582603a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\9df6fab712ebf872f9e6d6bd0711a7e5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-12.0.1.aar\a3456a37b4367e270e336897b55f563a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-12.0.1.aar\673e4f79f1d287d5d46078b10cd4f0d3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-config-license-12.0.1.aar\7a975b53643adfce7e7919e9f3df63c1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-12.0.1.aar\01cd6b8f88e1e7d6652a4855bc7b0238\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-12.0.1.aar\a4abf63d113fcc4025a4cabd45069c8f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-12.0.1.aar\d0ebe26479ab6a78ec3df0877f23e150\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-12.0.1.aar\22a5bad2fd3f893124acb8687f905d93\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\32b67855856ff606f4341ace6b0f05c2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-12.0.1.aar\290cfb5a95a835d81de5199e91772ac4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\e2adb7f4924d3d82e6166e1f1622d46a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\56b17abc53a12b7aae9b9fd2ab7f4e19\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\aba2fce6e24e71a5c21b198bdde372d6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-12.0.1.aar\0ba6bd4576826d33389dede3a3796a24\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-games-license-12.0.1.aar\16103681d4f10c46f1c3208c26418607\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-12.0.1.aar\a7563731d57e1d52305d492b117ef444\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-12.0.1.aar\e08fbc1fec63d533b067bda3df2ea908\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-12.0.1.aar\a0bb57c38d9baba7501975d143b94ee1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-12.0.1.aar\75677c18e160ed3e6844676ff481ab59\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-12.0.1.aar\c8d3d90ccf387f8e4c7c4949b650285b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-12.0.1.aar\51549ffee382391dea4b910a1da752cc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-12.0.1.aar\d7905097e09d39d22190c3db6d23066f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-12.0.1.aar\a70ee1c61bbf7c6f1f71d0a6671b2f98\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-12.0.1.aar\711e0b189d1fd79e5f970e2833f895d1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-12.0.1.aar\99f823d68b932d84dd403656032f63fb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-12.0.1.aar\d7f7fbe3fa1cfc7261789e8aac33cf3e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-12.0.1.aar\5fa485808d154a5e3a17d0e2916c078a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-12.0.1.aar\9639205e3793b706e61f20b416b43893\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\dfbc2808ac90279029610b909926eca8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\6bf9377e7f7c9b8032be82aaa057898a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\370a05fc45a0eac28f96079ed03508c8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\f2311265b31368bc3fb7ff34c7e4cf20\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:2:1-88:12
+INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:2:1-88:12
+	package
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:2:1-88:12
+		INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:2:1-88:12
+		INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\f3bdfe622e49c57ab6aab36fb95226e0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\f3bdfe622e49c57ab6aab36fb95226e0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.1.0.aar\a00c2cb64ff217439fec75ee353ee340\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.1.0.aar\a00c2cb64ff217439fec75ee353ee340\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-impl-12.0.1.aar\39bc3e0488b04ca89cd2c2d9f566b02a\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-impl-12.0.1.aar\39bc3e0488b04ca89cd2c2d9f566b02a\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-appinvite-12.0.1.aar\6bf36e509c1903f9485e1c5705b499e1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-appinvite-12.0.1.aar\6bf36e509c1903f9485e1c5705b499e1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-gcm-12.0.1.aar\46a5f60371e614fc78386140d2a65d33\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-gcm-12.0.1.aar\46a5f60371e614fc78386140d2a65d33\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-iid-12.0.1.aar\2fed8c8968b672cb5422a7778f614e72\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-iid-12.0.1.aar\2fed8c8968b672cb5422a7778f614e72\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-crash-12.0.1.aar\db535ab0d5374108a50e87af32f58f46\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-crash-12.0.1.aar\db535ab0d5374108a50e87af32f58f46\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-impl-17.0.5.aar\4cdca28b189ff07304d3dbc02df6c13c\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-impl-17.0.5.aar\4cdca28b189ff07304d3dbc02df6c13c\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-16.3.0.aar\b21208876cf1bfb6b8f57205cfc1dde6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-16.3.0.aar\b21208876cf1bfb6b8f57205cfc1dde6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-12.0.1.aar\4240ceb6a14bf6e2d228b1842f9e40fc\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-12.0.1.aar\4240ceb6a14bf6e2d228b1842f9e40fc\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\f3bdfe622e49c57ab6aab36fb95226e0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\f3bdfe622e49c57ab6aab36fb95226e0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.1.0.aar\a00c2cb64ff217439fec75ee353ee340\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.1.0.aar\a00c2cb64ff217439fec75ee353ee340\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-impl-12.0.1.aar\39bc3e0488b04ca89cd2c2d9f566b02a\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-impl-12.0.1.aar\39bc3e0488b04ca89cd2c2d9f566b02a\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-nearby-12.0.1.aar\c4311630475d5c560f38f4a041f78053\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-nearby-12.0.1.aar\c4311630475d5c560f38f4a041f78053\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-impl-17.0.5.aar\4cdca28b189ff07304d3dbc02df6c13c\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-impl-17.0.5.aar\4cdca28b189ff07304d3dbc02df6c13c\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-16.3.0.aar\b21208876cf1bfb6b8f57205cfc1dde6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-16.3.0.aar\b21208876cf1bfb6b8f57205cfc1dde6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-12.0.1.aar\4240ceb6a14bf6e2d228b1842f9e40fc\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-12.0.1.aar\4240ceb6a14bf6e2d228b1842f9e40fc\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#com.sistec.redspot.permission.MAPS_RECEIVE
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:9:5-82
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:9:22-79
+uses-permission#com.google.android.providers.gsf.permissions.READ_GSERVICES
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:10:5-99
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:10:22-96
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:12:22-78
+permission#com.sistec.redspot.permission.MAPS_RECEIVE
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:14:5-16:47
+	android:protectionLevel
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:15:9-66
+uses-feature#0x00020000
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:18:5-20:35
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\f3bdfe622e49c57ab6aab36fb95226e0\AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\f3bdfe622e49c57ab6aab36fb95226e0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:19:9-41
+	android:required
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:20:9-32
+application
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:22:5-86:19
+MERGED from [com.google.android.material:material:1.1.0-alpha04] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha04.aar\9c06fe2b6a90ab3e3ff9f68a10841c7c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha04] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha04.aar\9c06fe2b6a90ab3e3ff9f68a10841c7c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-12.0.1.aar\4e3030f66ff66d261298e9503cd4a7bb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-12.0.1.aar\4e3030f66ff66d261298e9503cd4a7bb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-cast-framework-12.0.1.aar\48f2488b74f393683b56f82ed1f3e4c0\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-cast-framework-12.0.1.aar\48f2488b74f393683b56f82ed1f3e4c0\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-cast-12.0.1.aar\b0c6053b0b9cb0780859ff6a61bd3210\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-cast-12.0.1.aar\b0c6053b0b9cb0780859ff6a61bd3210\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\5ab9dfc199497e73ec0052b2b0dbb494\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\5ab9dfc199497e73ec0052b2b0dbb494\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-awareness-12.0.1.aar\63e0880c4213280efb954ab869bc05b0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-awareness-12.0.1.aar\63e0880c4213280efb954ab869bc05b0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-places-16.0.0.aar\f32af9e30bf987a9e6c7292689eff888\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-places-16.0.0.aar\f32af9e30bf987a9e6c7292689eff888\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\f3bdfe622e49c57ab6aab36fb95226e0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\f3bdfe622e49c57ab6aab36fb95226e0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-fitness-12.0.1.aar\afb1d9b70d74e36a3292173e03c7d264\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-fitness-12.0.1.aar\afb1d9b70d74e36a3292173e03c7d264\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\dc1c9adb4f3eaea959b8346b01c1238c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\dc1c9adb4f3eaea959b8346b01c1238c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.1.0.aar\a00c2cb64ff217439fec75ee353ee340\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.1.0.aar\a00c2cb64ff217439fec75ee353ee340\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.7.aar\322cd0b9d356b1bbed241de19edfdcfb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.7.aar\322cd0b9d356b1bbed241de19edfdcfb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-v4-impl-12.0.1.aar\4ab95b7ac73298baca690eb7435c92a7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-v4-impl-12.0.1.aar\4ab95b7ac73298baca690eb7435c92a7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-impl-12.0.1.aar\39bc3e0488b04ca89cd2c2d9f566b02a\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-impl-12.0.1.aar\39bc3e0488b04ca89cd2c2d9f566b02a\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-appinvite-12.0.1.aar\6bf36e509c1903f9485e1c5705b499e1\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-appinvite-12.0.1.aar\6bf36e509c1903f9485e1c5705b499e1\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-12.0.1.aar\b60dc4d167c0296dc3f80e7ec6b32e05\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-12.0.1.aar\b60dc4d167c0296dc3f80e7ec6b32e05\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-config-12.0.1.aar\672a232c4e3da7f90e0686b45daadd38\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-config-12.0.1.aar\672a232c4e3da7f90e0686b45daadd38\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-games-12.0.1.aar\11ac344ce782949318e53214ebc7a578\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-games-12.0.1.aar\11ac344ce782949318e53214ebc7a578\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-drive-12.0.1.aar\199875c413f4dbfeb543da8816ec1b6a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-drive-12.0.1.aar\199875c413f4dbfeb543da8816ec1b6a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-fido-12.0.1.aar\02add6e75230ee67d88dea1d744c2a83\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-fido-12.0.1.aar\02add6e75230ee67d88dea1d744c2a83\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-dynamic-links-12.0.1.aar\e7ffe48343922cb83aad985a4cdb2801\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-dynamic-links-12.0.1.aar\e7ffe48343922cb83aad985a4cdb2801\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-gcm-12.0.1.aar\46a5f60371e614fc78386140d2a65d33\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-gcm-12.0.1.aar\46a5f60371e614fc78386140d2a65d33\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-appindexing-12.0.1.aar\5377442bd1c19ae2e391708e063a00df\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-appindexing-12.0.1.aar\5377442bd1c19ae2e391708e063a00df\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-identity-12.0.1.aar\ade99c6c2115d2875a7b33faf8715fa1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-identity-12.0.1.aar\ade99c6c2115d2875a7b33faf8715fa1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-iid-12.0.1.aar\2fed8c8968b672cb5422a7778f614e72\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-iid-12.0.1.aar\2fed8c8968b672cb5422a7778f614e72\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-nearby-12.0.1.aar\c4311630475d5c560f38f4a041f78053\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-nearby-12.0.1.aar\c4311630475d5c560f38f4a041f78053\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-panorama-12.0.1.aar\ad2188ef139b776db690907dd8c5c0bb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-panorama-12.0.1.aar\ad2188ef139b776db690907dd8c5c0bb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-plus-12.0.1.aar\fc3b7da865c415ee86a8393076231311\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-plus-12.0.1.aar\fc3b7da865c415ee86a8393076231311\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-safetynet-12.0.1.aar\94a1e1308a2a203c62091bb800af56bb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-safetynet-12.0.1.aar\94a1e1308a2a203c62091bb800af56bb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\dedaa6a0457b33e512989d562dddf4d9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\dedaa6a0457b33e512989d562dddf4d9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-vision-common-12.0.1.aar\e33c123ec17f15624ac56e3a78f347a4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-vision-common-12.0.1.aar\e33c123ec17f15624ac56e3a78f347a4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-12.0.1.aar\723b6f36336e61ba1d5c04844b151f49\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-12.0.1.aar\723b6f36336e61ba1d5c04844b151f49\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-16.0.1.aar\9d501400fe026cb4bdb619fb83a7ad38\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-16.0.1.aar\9d501400fe026cb4bdb619fb83a7ad38\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-crash-12.0.1.aar\db535ab0d5374108a50e87af32f58f46\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-crash-12.0.1.aar\db535ab0d5374108a50e87af32f58f46\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-12.0.1.aar\729dcf7f86cf135a3673e3649861bf28\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-12.0.1.aar\729dcf7f86cf135a3673e3649861bf28\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-impl-17.0.5.aar\4cdca28b189ff07304d3dbc02df6c13c\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-impl-17.0.5.aar\4cdca28b189ff07304d3dbc02df6c13c\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-api-16.3.0.aar\517bb8bec08b6e8358b5f871d46de3bb\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-api-16.3.0.aar\517bb8bec08b6e8358b5f871d46de3bb\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-16.3.0.aar\b21208876cf1bfb6b8f57205cfc1dde6\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-16.3.0.aar\b21208876cf1bfb6b8f57205cfc1dde6\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-interop-16.0.1.aar\6d03f1a3831a9819e75b1a8a83493c13\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-interop-16.0.1.aar\6d03f1a3831a9819e75b1a8a83493c13\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\3d3d6a2d0188b5991c68ca7b6afd7c67\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\3d3d6a2d0188b5991c68ca7b6afd7c67\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-12.0.1.aar\4240ceb6a14bf6e2d228b1842f9e40fc\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-12.0.1.aar\4240ceb6a14bf6e2d228b1842f9e40fc\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.1.aar\3428c6931f2e0aae66232fafcbbf8d7b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.1.aar\3428c6931f2e0aae66232fafcbbf8d7b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\73a62f6c0ec76ff7a6efc0b41f567569\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\73a62f6c0ec76ff7a6efc0b41f567569\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.1.0.aar\069ee08422d4ebe75f546f74c28ed32c\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.1.0.aar\069ee08422d4ebe75f546f74c28ed32c\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\41a7d8b73096fe1daa8fa41b338fc7d6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\41a7d8b73096fe1daa8fa41b338fc7d6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-base-16.3.0.aar\04b66d4de954f93261ee808732998191\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-base-16.3.0.aar\04b66d4de954f93261ee808732998191\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-stats-16.0.1.aar\acc073d6527b955a7d63b04b59bbb052\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-stats-16.0.1.aar\acc073d6527b955a7d63b04b59bbb052\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-17.0.1.aar\7dcf4104306611057f41827c3840c092\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-17.0.1.aar\7dcf4104306611057f41827c3840c092\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-identifier-16.0.0.aar\4307184c62fba5d1dbe49fb98fb47bef\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-identifier-16.0.0.aar\4307184c62fba5d1dbe49fb98fb47bef\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\96ae27d4270f9bd0fc517fc2029f75e6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\96ae27d4270f9bd0fc517fc2029f75e6\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0-alpha04] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha04.aar\44daa8d58c095717b870155394266994\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha04] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha04.aar\44daa8d58c095717b870155394266994\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\b66b8a52afae694f8c427d4c4ad4c44a\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\b66b8a52afae694f8c427d4c4ad4c44a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\293ce608986bc267bc56197e5c6200d0\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\293ce608986bc267bc56197e5c6200d0\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-12.0.1.aar\fcfff7ea39eb3c5da2f21fe645bcd338\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-12.0.1.aar\fcfff7ea39eb3c5da2f21fe645bcd338\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-12.0.1.aar\8ecedf5c5b030d6368281654e4f4333f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-12.0.1.aar\8ecedf5c5b030d6368281654e4f4333f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-12.0.1.aar\60853a5ddd334f5fe72aae324287dd1c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-12.0.1.aar\60853a5ddd334f5fe72aae324287dd1c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-12.0.1.aar\a5150cfbe59d2c513f2330e3b862d28f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-12.0.1.aar\a5150cfbe59d2c513f2330e3b862d28f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-12.0.1.aar\6007a496b58250efaadc62695464dcbd\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-12.0.1.aar\6007a496b58250efaadc62695464dcbd\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\093cae823b2ca670db3fd910b582603a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\093cae823b2ca670db3fd910b582603a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\9df6fab712ebf872f9e6d6bd0711a7e5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\9df6fab712ebf872f9e6d6bd0711a7e5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-12.0.1.aar\a3456a37b4367e270e336897b55f563a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-12.0.1.aar\a3456a37b4367e270e336897b55f563a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-12.0.1.aar\673e4f79f1d287d5d46078b10cd4f0d3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-12.0.1.aar\673e4f79f1d287d5d46078b10cd4f0d3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-config-license-12.0.1.aar\7a975b53643adfce7e7919e9f3df63c1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-config-license-12.0.1.aar\7a975b53643adfce7e7919e9f3df63c1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-12.0.1.aar\01cd6b8f88e1e7d6652a4855bc7b0238\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-12.0.1.aar\01cd6b8f88e1e7d6652a4855bc7b0238\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-12.0.1.aar\a4abf63d113fcc4025a4cabd45069c8f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-12.0.1.aar\a4abf63d113fcc4025a4cabd45069c8f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-12.0.1.aar\d0ebe26479ab6a78ec3df0877f23e150\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-12.0.1.aar\d0ebe26479ab6a78ec3df0877f23e150\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-12.0.1.aar\22a5bad2fd3f893124acb8687f905d93\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-12.0.1.aar\22a5bad2fd3f893124acb8687f905d93\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\32b67855856ff606f4341ace6b0f05c2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\32b67855856ff606f4341ace6b0f05c2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-12.0.1.aar\290cfb5a95a835d81de5199e91772ac4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-12.0.1.aar\290cfb5a95a835d81de5199e91772ac4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\e2adb7f4924d3d82e6166e1f1622d46a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\e2adb7f4924d3d82e6166e1f1622d46a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\56b17abc53a12b7aae9b9fd2ab7f4e19\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\56b17abc53a12b7aae9b9fd2ab7f4e19\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\aba2fce6e24e71a5c21b198bdde372d6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\aba2fce6e24e71a5c21b198bdde372d6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-12.0.1.aar\0ba6bd4576826d33389dede3a3796a24\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-12.0.1.aar\0ba6bd4576826d33389dede3a3796a24\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-games-license-12.0.1.aar\16103681d4f10c46f1c3208c26418607\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-games-license-12.0.1.aar\16103681d4f10c46f1c3208c26418607\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-12.0.1.aar\a7563731d57e1d52305d492b117ef444\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-12.0.1.aar\a7563731d57e1d52305d492b117ef444\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-12.0.1.aar\e08fbc1fec63d533b067bda3df2ea908\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-12.0.1.aar\e08fbc1fec63d533b067bda3df2ea908\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-12.0.1.aar\a0bb57c38d9baba7501975d143b94ee1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-12.0.1.aar\a0bb57c38d9baba7501975d143b94ee1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-12.0.1.aar\75677c18e160ed3e6844676ff481ab59\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-12.0.1.aar\75677c18e160ed3e6844676ff481ab59\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-12.0.1.aar\c8d3d90ccf387f8e4c7c4949b650285b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-12.0.1.aar\c8d3d90ccf387f8e4c7c4949b650285b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-12.0.1.aar\51549ffee382391dea4b910a1da752cc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-12.0.1.aar\51549ffee382391dea4b910a1da752cc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-12.0.1.aar\d7905097e09d39d22190c3db6d23066f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-12.0.1.aar\d7905097e09d39d22190c3db6d23066f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-12.0.1.aar\a70ee1c61bbf7c6f1f71d0a6671b2f98\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-12.0.1.aar\a70ee1c61bbf7c6f1f71d0a6671b2f98\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-12.0.1.aar\711e0b189d1fd79e5f970e2833f895d1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-12.0.1.aar\711e0b189d1fd79e5f970e2833f895d1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-12.0.1.aar\99f823d68b932d84dd403656032f63fb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-12.0.1.aar\99f823d68b932d84dd403656032f63fb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-12.0.1.aar\d7f7fbe3fa1cfc7261789e8aac33cf3e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-12.0.1.aar\d7f7fbe3fa1cfc7261789e8aac33cf3e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-12.0.1.aar\5fa485808d154a5e3a17d0e2916c078a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-12.0.1.aar\5fa485808d154a5e3a17d0e2916c078a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-12.0.1.aar\9639205e3793b706e61f20b416b43893\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-12.0.1.aar\9639205e3793b706e61f20b416b43893\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\dfbc2808ac90279029610b909926eca8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\dfbc2808ac90279029610b909926eca8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\6bf9377e7f7c9b8032be82aaa057898a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\6bf9377e7f7c9b8032be82aaa057898a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\370a05fc45a0eac28f96079ed03508c8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\370a05fc45a0eac28f96079ed03508c8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\f2311265b31368bc3fb7ff34c7e4cf20\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\f2311265b31368bc3fb7ff34c7e4cf20\AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha04] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha04.aar\44daa8d58c095717b870155394266994\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:25:9-41
+	android:roundIcon
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:26:9-54
+	android:icon
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:28:9-40
+service#com.sistec.redspot.MyMapServices
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:30:9-33:39
+	android:enabled
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:31:13-42
+uses-library#org.apache.http.legacy
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:35:9-37:40
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\f3bdfe622e49c57ab6aab36fb95226e0\AndroidManifest.xml:33:9-35:40
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\f3bdfe622e49c57ab6aab36fb95226e0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:36:13-50
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:39:9-41:58
+	android:value
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:41:13-55
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:40:13-62
+meta-data#com.google.android.gms.version
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:42:9-44:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\96ae27d4270f9bd0fc517fc2029f75e6\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\96ae27d4270f9bd0fc517fc2029f75e6\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\293ce608986bc267bc56197e5c6200d0\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\293ce608986bc267bc56197e5c6200d0\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:44:13-66
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:43:13-58
+activity#com.sistec.redspot.SplashActivity
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:46:9-54:20
+	android:theme
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:48:13-47
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:47:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:52:27-74
+activity#com.sistec.redspot.LoginActivity
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:55:9-51
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:55:19-48
+activity#com.sistec.redspot.RegisterActivity
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:56:9-62:20
+	android:parentActivityName
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:58:13-56
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:57:13-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:59:13-61:50
+	android:value
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:61:17-47
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:60:17-63
+activity#com.sistec.redspot.MainActivity
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:63:9-67:20
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:63:19-47
+intent-filter#action:name:android.intent.action.VIEW
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:64:13-66:29
+action#android.intent.action.VIEW
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:65:17-69
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:65:25-66
+activity#com.sistec.redspot.AboutActivity
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:68:9-71:20
+	android:theme
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:70:13-46
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:69:13-42
+activity#com.sistec.redspot.DangerLocationActivity
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:72:9-78:20
+	android:parentActivityName
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:74:13-55
+	android:label
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:72:19-57
+activity#com.sistec.redspot.DangerLocationPickerActivity
+ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:79:9-85:20
+	android:parentActivityName
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:81:13-65
+	android:label
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:80:13-50
+	android:name
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml:79:19-63
+uses-sdk
+INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml
+INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\multidex-2.0.1.aar\d6c7abb2e9aef58b9f0aba2079dc53ae\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\multidex-2.0.1.aar\d6c7abb2e9aef58b9f0aba2079dc53ae\AndroidManifest.xml:20:5-43
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-library-2.1.4.aar\81ce15ff3357db9ab531e2efb186b57e\AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-library-2.1.4.aar\81ce15ff3357db9ab531e2efb186b57e\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.material:material:1.1.0-alpha04] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha04.aar\9c06fe2b6a90ab3e3ff9f68a10841c7c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha04] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha04.aar\9c06fe2b6a90ab3e3ff9f68a10841c7c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-12.0.1.aar\4e3030f66ff66d261298e9503cd4a7bb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-12.0.1.aar\4e3030f66ff66d261298e9503cd4a7bb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-cast-framework-12.0.1.aar\48f2488b74f393683b56f82ed1f3e4c0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-cast-framework-12.0.1.aar\48f2488b74f393683b56f82ed1f3e4c0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-cast-12.0.1.aar\b0c6053b0b9cb0780859ff6a61bd3210\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-cast-12.0.1.aar\b0c6053b0b9cb0780859ff6a61bd3210\AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\mediarouter-1.0.0-alpha5.aar\23eb935627379614732bada77bc329d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\mediarouter-1.0.0-alpha5.aar\23eb935627379614732bada77bc329d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha02.aar\23864e04dfa81bfa5cae4b2c22e4f4f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha02.aar\23864e04dfa81bfa5cae4b2c22e4f4f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\5ab9dfc199497e73ec0052b2b0dbb494\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\5ab9dfc199497e73ec0052b2b0dbb494\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\36384d7044e7b73d4715f682c235b18d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\36384d7044e7b73d4715f682c235b18d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-awareness-12.0.1.aar\63e0880c4213280efb954ab869bc05b0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-awareness-12.0.1.aar\63e0880c4213280efb954ab869bc05b0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-places-16.0.0.aar\f32af9e30bf987a9e6c7292689eff888\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-places-16.0.0.aar\f32af9e30bf987a9e6c7292689eff888\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wallet-12.0.1.aar\660d0f525d2fa808128fa79889d63395\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wallet-12.0.1.aar\660d0f525d2fa808128fa79889d63395\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\f3bdfe622e49c57ab6aab36fb95226e0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-maps-17.0.0.aar\f3bdfe622e49c57ab6aab36fb95226e0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-fitness-12.0.1.aar\afb1d9b70d74e36a3292173e03c7d264\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-fitness-12.0.1.aar\afb1d9b70d74e36a3292173e03c7d264\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\dc1c9adb4f3eaea959b8346b01c1238c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\dc1c9adb4f3eaea959b8346b01c1238c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.1.0.aar\a00c2cb64ff217439fec75ee353ee340\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.1.0.aar\a00c2cb64ff217439fec75ee353ee340\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.7.aar\322cd0b9d356b1bbed241de19edfdcfb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.7] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.7.aar\322cd0b9d356b1bbed241de19edfdcfb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-12.0.1.aar\e443b78802173ce28f046b7b2fccdc4a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-12.0.1.aar\e443b78802173ce28f046b7b2fccdc4a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-v4-impl-12.0.1.aar\4ab95b7ac73298baca690eb7435c92a7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-v4-impl-12.0.1.aar\4ab95b7ac73298baca690eb7435c92a7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-impl-12.0.1.aar\39bc3e0488b04ca89cd2c2d9f566b02a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-impl-12.0.1.aar\39bc3e0488b04ca89cd2c2d9f566b02a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-appinvite-12.0.1.aar\6bf36e509c1903f9485e1c5705b499e1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-appinvite-12.0.1.aar\6bf36e509c1903f9485e1c5705b499e1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-12.0.1.aar\b60dc4d167c0296dc3f80e7ec6b32e05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-12.0.1.aar\b60dc4d167c0296dc3f80e7ec6b32e05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-api-phone-12.0.1.aar\f79ab7d3e8dccf23bd5d383bec2c6f26\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-api-phone-12.0.1.aar\f79ab7d3e8dccf23bd5d383bec2c6f26\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-base-12.0.1.aar\a6a365ebc25200ba902be15c1f3eaec8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-base-12.0.1.aar\a6a365ebc25200ba902be15c1f3eaec8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-config-12.0.1.aar\672a232c4e3da7f90e0686b45daadd38\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-config-12.0.1.aar\672a232c4e3da7f90e0686b45daadd38\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-games-12.0.1.aar\11ac344ce782949318e53214ebc7a578\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-games-12.0.1.aar\11ac344ce782949318e53214ebc7a578\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-drive-12.0.1.aar\199875c413f4dbfeb543da8816ec1b6a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-drive-12.0.1.aar\199875c413f4dbfeb543da8816ec1b6a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-fido-12.0.1.aar\02add6e75230ee67d88dea1d744c2a83\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-fido-12.0.1.aar\02add6e75230ee67d88dea1d744c2a83\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-dynamic-links-12.0.1.aar\e7ffe48343922cb83aad985a4cdb2801\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-dynamic-links-12.0.1.aar\e7ffe48343922cb83aad985a4cdb2801\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-gcm-12.0.1.aar\46a5f60371e614fc78386140d2a65d33\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-gcm-12.0.1.aar\46a5f60371e614fc78386140d2a65d33\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-appindexing-12.0.1.aar\5377442bd1c19ae2e391708e063a00df\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-appindexing-12.0.1.aar\5377442bd1c19ae2e391708e063a00df\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-identity-12.0.1.aar\ade99c6c2115d2875a7b33faf8715fa1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-identity-12.0.1.aar\ade99c6c2115d2875a7b33faf8715fa1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-iid-12.0.1.aar\2fed8c8968b672cb5422a7778f614e72\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-iid-12.0.1.aar\2fed8c8968b672cb5422a7778f614e72\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-instantapps-12.0.1.aar\d62f81095adce0dc9db651a60f61a7ff\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-instantapps-12.0.1.aar\d62f81095adce0dc9db651a60f61a7ff\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-nearby-12.0.1.aar\c4311630475d5c560f38f4a041f78053\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-nearby-12.0.1.aar\c4311630475d5c560f38f4a041f78053\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-panorama-12.0.1.aar\ad2188ef139b776db690907dd8c5c0bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-panorama-12.0.1.aar\ad2188ef139b776db690907dd8c5c0bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-plus-12.0.1.aar\fc3b7da865c415ee86a8393076231311\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-plus-12.0.1.aar\fc3b7da865c415ee86a8393076231311\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-safetynet-12.0.1.aar\94a1e1308a2a203c62091bb800af56bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-safetynet-12.0.1.aar\94a1e1308a2a203c62091bb800af56bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\dedaa6a0457b33e512989d562dddf4d9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\dedaa6a0457b33e512989d562dddf4d9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-vision-common-12.0.1.aar\e33c123ec17f15624ac56e3a78f347a4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-vision-common-12.0.1.aar\e33c123ec17f15624ac56e3a78f347a4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-12.0.1.aar\723b6f36336e61ba1d5c04844b151f49\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-wearable-12.0.1.aar\723b6f36336e61ba1d5c04844b151f49\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\1ee462e638c6359b0848956dfc57c7f2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\1ee462e638c6359b0848956dfc57c7f2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-16.0.1.aar\9d501400fe026cb4bdb619fb83a7ad38\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-interop-16.0.1.aar\9d501400fe026cb4bdb619fb83a7ad38\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-crash-12.0.1.aar\db535ab0d5374108a50e87af32f58f46\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-crash-12.0.1.aar\db535ab0d5374108a50e87af32f58f46\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-12.0.1.aar\729dcf7f86cf135a3673e3649861bf28\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-12.0.1.aar\729dcf7f86cf135a3673e3649861bf28\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-impl-17.0.5.aar\4cdca28b189ff07304d3dbc02df6c13c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-impl-17.0.5.aar\4cdca28b189ff07304d3dbc02df6c13c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-api-16.3.0.aar\517bb8bec08b6e8358b5f871d46de3bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-api-16.3.0.aar\517bb8bec08b6e8358b5f871d46de3bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-16.3.0.aar\b21208876cf1bfb6b8f57205cfc1dde6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-16.3.0.aar\b21208876cf1bfb6b8f57205cfc1dde6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-interop-16.0.1.aar\6d03f1a3831a9819e75b1a8a83493c13\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-interop-16.0.1.aar\6d03f1a3831a9819e75b1a8a83493c13\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\3d3d6a2d0188b5991c68ca7b6afd7c67\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\3d3d6a2d0188b5991c68ca7b6afd7c67\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-12.0.1.aar\c37f88a7524a534ec48607372a2a08ac\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-12.0.1.aar\c37f88a7524a534ec48607372a2a08ac\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-12.0.1.aar\4240ceb6a14bf6e2d228b1842f9e40fc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-12.0.1.aar\4240ceb6a14bf6e2d228b1842f9e40fc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-connection-12.0.1.aar\8f5398aa20fef9855efca06f74dc7f2b\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-connection-12.0.1.aar\8f5398aa20fef9855efca06f74dc7f2b\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-12.0.1.aar\7a28b8ef5d420ec8be157fc6d2cce7f1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-12.0.1.aar\7a28b8ef5d420ec8be157fc6d2cce7f1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-common-12.0.1.aar\2f888f3c45fc6c64feef8a6a8c2d144f\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-storage-common-12.0.1.aar\2f888f3c45fc6c64feef8a6a8c2d144f\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.1.aar\3428c6931f2e0aae66232fafcbbf8d7b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.1.aar\3428c6931f2e0aae66232fafcbbf8d7b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\73a62f6c0ec76ff7a6efc0b41f567569\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\73a62f6c0ec76ff7a6efc0b41f567569\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.1.0.aar\069ee08422d4ebe75f546f74c28ed32c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.1.0.aar\069ee08422d4ebe75f546f74c28ed32c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\41a7d8b73096fe1daa8fa41b338fc7d6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\41a7d8b73096fe1daa8fa41b338fc7d6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-base-16.3.0.aar\04b66d4de954f93261ee808732998191\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-base-16.3.0.aar\04b66d4de954f93261ee808732998191\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-stats-16.0.1.aar\acc073d6527b955a7d63b04b59bbb052\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-stats-16.0.1.aar\acc073d6527b955a7d63b04b59bbb052\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-17.0.1.aar\7dcf4104306611057f41827c3840c092\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-17.0.1.aar\7dcf4104306611057f41827c3840c092\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-identifier-16.0.0.aar\4307184c62fba5d1dbe49fb98fb47bef\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-identifier-16.0.0.aar\4307184c62fba5d1dbe49fb98fb47bef\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\96ae27d4270f9bd0fc517fc2029f75e6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\96ae27d4270f9bd0fc517fc2029f75e6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha04] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha04.aar\bd51ee41f380a4f6d7d542d86ff24373\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha04] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha04.aar\bd51ee41f380a4f6d7d542d86ff24373\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\3318c54869ba6c150e572a884e1597fd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\3318c54869ba6c150e572a884e1597fd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\18400f5a113e9363809d200427255086\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\18400f5a113e9363809d200427255086\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\0c2c27c23ca328d8f2b80baa15c09e59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\0c2c27c23ca328d8f2b80baa15c09e59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0-alpha01.aar\8ee26f9fe3b11e56e6df43e0567b8a0a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0-alpha01.aar\8ee26f9fe3b11e56e6df43e0567b8a0a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0-alpha01.aar\65a0b2b9976855d8eb39edeb28daa3a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0-alpha01.aar\65a0b2b9976855d8eb39edeb28daa3a4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\palette-1.0.0-rc01.aar\f6751ccf398449ce8137750d770781a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\palette-1.0.0-rc01.aar\f6751ccf398449ce8137750d770781a3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\483c699991fc341e03ecb603550feebc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\483c699991fc341e03ecb603550feebc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0-alpha01.aar\d54e6029bd537248cdd233965903c67d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0-alpha01.aar\d54e6029bd537248cdd233965903c67d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\transition-1.0.1.aar\1a6ab403734bdfc40a31a6f58ee6a090\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\transition-1.0.1.aar\1a6ab403734bdfc40a31a6f58ee6a090\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\594dc884561ecaf32fa73fb20da2fa0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\594dc884561ecaf32fa73fb20da2fa0c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\9e0af66925cd8bd0780b63eb01c9520a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\9e0af66925cd8bd0780b63eb01c9520a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha04] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha04.aar\d98e58f087b2b2173216e9c1f85d324f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha04] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha04.aar\d98e58f087b2b2173216e9c1f85d324f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\b480828036dbcdbe37c52e757dcc42b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\b480828036dbcdbe37c52e757dcc42b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\eb2b44dbace989add4cc99dcb814eb84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\eb2b44dbace989add4cc99dcb814eb84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\522297f826a9babbb65acbd99b660f93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\522297f826a9babbb65acbd99b660f93\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\1ed6c866c27b248457a7194b159f3a66\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\1ed6c866c27b248457a7194b159f3a66\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\media2-1.0.0-alpha02.aar\0b44d9c6312022d34e38c71d5a1617ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\media2-1.0.0-alpha02.aar\0b44d9c6312022d34e38c71d5a1617ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\2e43817766dcc4ddddca67140f8f795d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\2e43817766dcc4ddddca67140f8f795d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha04] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha04.aar\44daa8d58c095717b870155394266994\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha04] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha04.aar\44daa8d58c095717b870155394266994\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\b66b8a52afae694f8c427d4c4ad4c44a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\b66b8a52afae694f8c427d4c4ad4c44a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\d09e0770fc09a3afa971835f0072257b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\d09e0770fc09a3afa971835f0072257b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\c260a19d65022b5d73cfb6c940a80b6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\c260a19d65022b5d73cfb6c940a80b6a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e5b2fa743c93a94966d0ef09328c24c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e5b2fa743c93a94966d0ef09328c24c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\16851b2eebb6ab179fdc40b633273466\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\16851b2eebb6ab179fdc40b633273466\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\72a2df9c09e53d83e44e1ade13511dbe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\72a2df9c09e53d83e44e1ade13511dbe\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0-alpha02.aar\2d3d4100cc19a941c3cbcf48f8edef5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha02] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0-alpha02.aar\2d3d4100cc19a941c3cbcf48f8edef5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-bundle:1.0.0-alpha01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\savedstate-bundle-1.0.0-alpha01.aar\91e3abcd1bf77ba50f95b392496d9c0a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-bundle:1.0.0-alpha01] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\savedstate-bundle-1.0.0-alpha01.aar\91e3abcd1bf77ba50f95b392496d9c0a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\124a2c6e42151ec4b9119372454d02fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\124a2c6e42151ec4b9119372454d02fa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\8a9d417594a9deb61eca1d03cb10f41e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\8a9d417594a9deb61eca1d03cb10f41e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\925a5495f9d26a4670b882ca974a1547\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\925a5495f9d26a4670b882ca974a1547\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\c3a8c927e5860f196caa22f6c6618980\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\c3a8c927e5860f196caa22f6c6618980\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\293ce608986bc267bc56197e5c6200d0\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-android-maps-utils-0.5.aar\293ce608986bc267bc56197e5c6200d0\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\c0385c16398e5943ca3d090c529550a2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\c0385c16398e5943ca3d090c529550a2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-12.0.1.aar\fcfff7ea39eb3c5da2f21fe645bcd338\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-12.0.1.aar\fcfff7ea39eb3c5da2f21fe645bcd338\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-12.0.1.aar\8ecedf5c5b030d6368281654e4f4333f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-12.0.1.aar\8ecedf5c5b030d6368281654e4f4333f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-12.0.1.aar\60853a5ddd334f5fe72aae324287dd1c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-12.0.1.aar\60853a5ddd334f5fe72aae324287dd1c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-12.0.1.aar\a5150cfbe59d2c513f2330e3b862d28f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-12.0.1.aar\a5150cfbe59d2c513f2330e3b862d28f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-12.0.1.aar\6007a496b58250efaadc62695464dcbd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-12.0.1.aar\6007a496b58250efaadc62695464dcbd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\093cae823b2ca670db3fd910b582603a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\093cae823b2ca670db3fd910b582603a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\9df6fab712ebf872f9e6d6bd0711a7e5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\9df6fab712ebf872f9e6d6bd0711a7e5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-12.0.1.aar\a3456a37b4367e270e336897b55f563a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-12.0.1.aar\a3456a37b4367e270e336897b55f563a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-12.0.1.aar\673e4f79f1d287d5d46078b10cd4f0d3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-12.0.1.aar\673e4f79f1d287d5d46078b10cd4f0d3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-config-license-12.0.1.aar\7a975b53643adfce7e7919e9f3df63c1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-config-license-12.0.1.aar\7a975b53643adfce7e7919e9f3df63c1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-12.0.1.aar\01cd6b8f88e1e7d6652a4855bc7b0238\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-12.0.1.aar\01cd6b8f88e1e7d6652a4855bc7b0238\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-12.0.1.aar\a4abf63d113fcc4025a4cabd45069c8f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-12.0.1.aar\a4abf63d113fcc4025a4cabd45069c8f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-12.0.1.aar\d0ebe26479ab6a78ec3df0877f23e150\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-12.0.1.aar\d0ebe26479ab6a78ec3df0877f23e150\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-12.0.1.aar\22a5bad2fd3f893124acb8687f905d93\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-12.0.1.aar\22a5bad2fd3f893124acb8687f905d93\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\32b67855856ff606f4341ace6b0f05c2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\32b67855856ff606f4341ace6b0f05c2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-12.0.1.aar\290cfb5a95a835d81de5199e91772ac4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-12.0.1.aar\290cfb5a95a835d81de5199e91772ac4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\e2adb7f4924d3d82e6166e1f1622d46a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\e2adb7f4924d3d82e6166e1f1622d46a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\56b17abc53a12b7aae9b9fd2ab7f4e19\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\56b17abc53a12b7aae9b9fd2ab7f4e19\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\aba2fce6e24e71a5c21b198bdde372d6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\aba2fce6e24e71a5c21b198bdde372d6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-12.0.1.aar\0ba6bd4576826d33389dede3a3796a24\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-12.0.1.aar\0ba6bd4576826d33389dede3a3796a24\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-games-license-12.0.1.aar\16103681d4f10c46f1c3208c26418607\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-games-license-12.0.1.aar\16103681d4f10c46f1c3208c26418607\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-12.0.1.aar\a7563731d57e1d52305d492b117ef444\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-12.0.1.aar\a7563731d57e1d52305d492b117ef444\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-12.0.1.aar\e08fbc1fec63d533b067bda3df2ea908\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-12.0.1.aar\e08fbc1fec63d533b067bda3df2ea908\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-12.0.1.aar\a0bb57c38d9baba7501975d143b94ee1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-12.0.1.aar\a0bb57c38d9baba7501975d143b94ee1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-12.0.1.aar\75677c18e160ed3e6844676ff481ab59\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-12.0.1.aar\75677c18e160ed3e6844676ff481ab59\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-12.0.1.aar\c8d3d90ccf387f8e4c7c4949b650285b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-12.0.1.aar\c8d3d90ccf387f8e4c7c4949b650285b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-12.0.1.aar\51549ffee382391dea4b910a1da752cc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-12.0.1.aar\51549ffee382391dea4b910a1da752cc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-12.0.1.aar\d7905097e09d39d22190c3db6d23066f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-12.0.1.aar\d7905097e09d39d22190c3db6d23066f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-12.0.1.aar\a70ee1c61bbf7c6f1f71d0a6671b2f98\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-12.0.1.aar\a70ee1c61bbf7c6f1f71d0a6671b2f98\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-12.0.1.aar\711e0b189d1fd79e5f970e2833f895d1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-12.0.1.aar\711e0b189d1fd79e5f970e2833f895d1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-12.0.1.aar\99f823d68b932d84dd403656032f63fb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-12.0.1.aar\99f823d68b932d84dd403656032f63fb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-12.0.1.aar\d7f7fbe3fa1cfc7261789e8aac33cf3e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-12.0.1.aar\d7f7fbe3fa1cfc7261789e8aac33cf3e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-12.0.1.aar\5fa485808d154a5e3a17d0e2916c078a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-12.0.1.aar\5fa485808d154a5e3a17d0e2916c078a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-12.0.1.aar\9639205e3793b706e61f20b416b43893\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-12.0.1.aar\9639205e3793b706e61f20b416b43893\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\dfbc2808ac90279029610b909926eca8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\dfbc2808ac90279029610b909926eca8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\6bf9377e7f7c9b8032be82aaa057898a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\6bf9377e7f7c9b8032be82aaa057898a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\370a05fc45a0eac28f96079ed03508c8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\370a05fc45a0eac28f96079ed03508c8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\f2311265b31368bc3fb7ff34c7e4cf20\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\f2311265b31368bc3fb7ff34c7e4cf20\AndroidManifest.xml:20:5-44
+INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml
+INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-12.0.1.aar\c37f88a7524a534ec48607372a2a08ac\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml
+		ADDED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\RedSpotSIH\app\src\main\AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-cast-framework-12.0.1.aar\48f2488b74f393683b56f82ed1f3e4c0\AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-cast-framework-12.0.1.aar\48f2488b74f393683b56f82ed1f3e4c0\AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-cast-framework-12.0.1.aar\48f2488b74f393683b56f82ed1f3e4c0\AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-cast-framework-12.0.1.aar\48f2488b74f393683b56f82ed1f3e4c0\AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-cast-framework-12.0.1.aar\48f2488b74f393683b56f82ed1f3e4c0\AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-cast-framework-12.0.1.aar\48f2488b74f393683b56f82ed1f3e4c0\AndroidManifest.xml:11:18-90
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.1.0.aar\a00c2cb64ff217439fec75ee353ee340\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-impl-17.0.5.aar\4cdca28b189ff07304d3dbc02df6c13c\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-impl-17.0.5.aar\4cdca28b189ff07304d3dbc02df6c13c\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.1.0.aar\a00c2cb64ff217439fec75ee353ee340\AndroidManifest.xml:29:18-89
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.1.0.aar\a00c2cb64ff217439fec75ee353ee340\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.1.0.aar\a00c2cb64ff217439fec75ee353ee340\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-database-16.1.0.aar\a00c2cb64ff217439fec75ee353ee340\AndroidManifest.xml:31:17-109
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-auth-16.1.0.aar\0ff282d073f30f38f95224aa5eee3dbc\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-impl-12.0.1.aar\39bc3e0488b04ca89cd2c2d9f566b02a\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-impl-12.0.1.aar\39bc3e0488b04ca89cd2c2d9f566b02a\AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-impl-17.0.5.aar\4cdca28b189ff07304d3dbc02df6c13c\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-impl-17.0.5.aar\4cdca28b189ff07304d3dbc02df6c13c\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-16.3.0.aar\b21208876cf1bfb6b8f57205cfc1dde6\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-16.3.0.aar\b21208876cf1bfb6b8f57205cfc1dde6\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-analytics-12.0.1.aar\e1bac5e80832d882bce2d3ffe22b9bfc\AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-appinvite-12.0.1.aar\6bf36e509c1903f9485e1c5705b499e1\AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-appinvite-12.0.1.aar\6bf36e509c1903f9485e1c5705b499e1\AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-appinvite-12.0.1.aar\6bf36e509c1903f9485e1c5705b499e1\AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-appinvite-12.0.1.aar\6bf36e509c1903f9485e1c5705b499e1\AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-appinvite-12.0.1.aar\6bf36e509c1903f9485e1c5705b499e1\AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-appinvite-12.0.1.aar\6bf36e509c1903f9485e1c5705b499e1\AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-appinvite-12.0.1.aar\6bf36e509c1903f9485e1c5705b499e1\AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-appinvite-12.0.1.aar\6bf36e509c1903f9485e1c5705b499e1\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-appinvite-12.0.1.aar\6bf36e509c1903f9485e1c5705b499e1\AndroidManifest.xml:32:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-12.0.1.aar\b60dc4d167c0296dc3f80e7ec6b32e05\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-12.0.1.aar\b60dc4d167c0296dc3f80e7ec6b32e05\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-12.0.1.aar\b60dc4d167c0296dc3f80e7ec6b32e05\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-12.0.1.aar\b60dc4d167c0296dc3f80e7ec6b32e05\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-12.0.1.aar\b60dc4d167c0296dc3f80e7ec6b32e05\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-12.0.1.aar\b60dc4d167c0296dc3f80e7ec6b32e05\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-12.0.1.aar\b60dc4d167c0296dc3f80e7ec6b32e05\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-12.0.1.aar\b60dc4d167c0296dc3f80e7ec6b32e05\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-auth-12.0.1.aar\b60dc4d167c0296dc3f80e7ec6b32e05\AndroidManifest.xml:34:13-89
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-gcm-12.0.1.aar\46a5f60371e614fc78386140d2a65d33\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-iid-12.0.1.aar\2fed8c8968b672cb5422a7778f614e72\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-iid-12.0.1.aar\2fed8c8968b672cb5422a7778f614e72\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-gcm-12.0.1.aar\46a5f60371e614fc78386140d2a65d33\AndroidManifest.xml:23:22-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-12.0.1.aar\729dcf7f86cf135a3673e3649861bf28\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-12.0.1.aar\729dcf7f86cf135a3673e3649861bf28\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-12.0.1.aar\729dcf7f86cf135a3673e3649861bf28\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-12.0.1.aar\729dcf7f86cf135a3673e3649861bf28\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-12.0.1.aar\729dcf7f86cf135a3673e3649861bf28\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-12.0.1.aar\729dcf7f86cf135a3673e3649861bf28\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-12.0.1.aar\729dcf7f86cf135a3673e3649861bf28\AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:33:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:36:13-43:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.sistec.redspot
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:37:23-69
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tagmanager-api-12.0.1.aar\e2ad510db14a5c91e31f582a3a005a50\AndroidManifest.xml:42:27-75
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-impl-17.0.5.aar\4cdca28b189ff07304d3dbc02df6c13c\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-impl-17.0.5.aar\4cdca28b189ff07304d3dbc02df6c13c\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.5] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-impl-17.0.5.aar\4cdca28b189ff07304d3dbc02df6c13c\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-16.3.0.aar\b21208876cf1bfb6b8f57205cfc1dde6\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-16.3.0.aar\b21208876cf1bfb6b8f57205cfc1dde6\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-16.3.0.aar\b21208876cf1bfb6b8f57205cfc1dde6\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-impl-16.3.0.aar\b21208876cf1bfb6b8f57205cfc1dde6\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.3.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-analytics-16.3.0.aar\54f2b3484e2978b44fad1ada2309baea\AndroidManifest.xml:49:13-87
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.3.aar\4e8083857b6d0ee5524781e633e5398a\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\3d3d6a2d0188b5991c68ca7b6afd7c67\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\3d3d6a2d0188b5991c68ca7b6afd7c67\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\3d3d6a2d0188b5991c68ca7b6afd7c67\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\3d3d6a2d0188b5991c68ca7b6afd7c67\AndroidManifest.xml:24:13-79
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-12.0.1.aar\4240ceb6a14bf6e2d228b1842f9e40fc\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-12.0.1.aar\4240ceb6a14bf6e2d228b1842f9e40fc\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-12.0.1.aar\4240ceb6a14bf6e2d228b1842f9e40fc\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-12.0.1.aar\4240ceb6a14bf6e2d228b1842f9e40fc\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-12.0.1.aar\4240ceb6a14bf6e2d228b1842f9e40fc\AndroidManifest.xml:30:13-65
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.1.0.aar\069ee08422d4ebe75f546f74c28ed32c\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.1.0.aar\069ee08422d4ebe75f546f74c28ed32c\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.1.0.aar\069ee08422d4ebe75f546f74c28ed32c\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.1.0.aar\069ee08422d4ebe75f546f74c28ed32c\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\Dell\.gradle\caches\transforms-1\files-1.1\jetified-firebase-common-16.1.0.aar\069ee08422d4ebe75f546f74c28ed32c\AndroidManifest.xml:13:13-77

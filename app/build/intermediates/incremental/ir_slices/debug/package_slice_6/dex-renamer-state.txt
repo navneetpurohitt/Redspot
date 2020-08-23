@@ -1,0 +1,4 @@
+#Sun Mar 03 16:55:09 IST 2019
+base.0=D\:\\bla bla bla\\RedSpotSIH\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

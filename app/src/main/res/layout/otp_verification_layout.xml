@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.rengwuxian.materialedittext.MaterialEditText
+        android:id="@+id/et_otp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="OTP"
+        android:inputType="number"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:met_floatingLabel="highlight"
+        app:met_iconLeft="@drawable/pass"
+        app:met_maxCharacters="6"
+        app:met_minCharacters="6" />
+
+    <Button
+        android:id="@+id/btn_otp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/button"
+        android:text="verify"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+</LinearLayout>
